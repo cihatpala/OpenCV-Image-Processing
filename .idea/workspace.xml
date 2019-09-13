@@ -21,15 +21,15 @@
   <component name="ProjectId" id="1QYYXWE3SQNiJ8z9CtiuPfy5F2x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pala\PycharmProjects\Introduction\Yuz_Goz_Filtreleme" />
+      <recent name="C:\Users\pala\PycharmProjects\Introduction\Kenar_Filtreleme" />
+      <recent name="C:\Users\pala\PycharmProjects\Introduction\Arkaplan_Filtreleme" />
+      <recent name="C:\Users\pala\PycharmProjects\Introduction\Kamera_Uzerinden_Nesne_Tespiti" />
       <recent name="C:\Users\pala\PycharmProjects\Introduction\Video_Camera" />
-      <recent name="C:\Users\pala\PycharmProjects\Introduction\Goruntu_Piramitleri" />
-      <recent name="C:\Users\pala\PycharmProjects\Introduction\Maskeleme_Ders_1" />
-      <recent name="C:\Users\pala\PycharmProjects\Introduction\Goruntu_Isleme_Dersleri2" />
-      <recent name="C:\Users\pala\PycharmProjects\Introduction\Goruntu_Isleme_Dersleri" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -44,8 +44,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ders10">
-    <configuration name="agirlikli_toplama" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.yuz_goz_filtreleme">
+    <configuration name="arkaplan_filtreleme" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Goruntu_Isleme_Dersleri2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arkaplan_Filtreleme" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Goruntu_Isleme_Dersleri2/agirlikli_toplama.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arkaplan_Filtreleme/arkaplan_filtreleme.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ders10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kenar_filtreleme" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video_Camera" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kenar_Filtreleme" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video_Camera/ders10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kenar_Filtreleme/kenar_filtreleme.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ders8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="morfolojik" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Goruntu_Piramitleri" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Morfolojik_Filtreleme" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Goruntu_Piramitleri/ders8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Morfolojik_Filtreleme/morfolojik.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ders9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nesne_tespiti" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Line_Circle_Text" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kamera_Uzerinden_Nesne_Tespiti" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Line_Circle_Text/ders9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kamera_Uzerinden_Nesne_Tespiti/nesne_tespiti.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maskeleme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="yuz_goz_filtreleme" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maskeleme_Ders_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Yuz_Goz_Filtreleme" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maskeleme_Ders_1/maskeleme.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Yuz_Goz_Filtreleme/yuz_goz_filtreleme.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ders10" />
-        <item itemvalue="Python.ders9" />
-        <item itemvalue="Python.ders8" />
-        <item itemvalue="Python.maskeleme" />
-        <item itemvalue="Python.agirlikli_toplama" />
+        <item itemvalue="Python.yuz_goz_filtreleme" />
+        <item itemvalue="Python.kenar_filtreleme" />
+        <item itemvalue="Python.arkaplan_filtreleme" />
+        <item itemvalue="Python.nesne_tespiti" />
+        <item itemvalue="Python.morfolojik" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
